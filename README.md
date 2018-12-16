@@ -3,12 +3,15 @@
 ## uBot - 6
 <p>
 <img src="uBot6.png" width="150" height="150" align="left"/>
+This is a dynamically balancing toddler-sized humanoid built at the University of Massachusetts, Amherst.
 </p>
+ 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 ## Siemens Humanoid
 <p>
