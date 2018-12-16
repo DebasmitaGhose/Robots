@@ -31,7 +31,7 @@ This was a drone built as a part of my undergraduate summer internship at TU Dre
 
 ## Surveillance Hovercraft
 <p>
-<img src="Hovercraft.jpg" width="200" height="250" align="left"/>
+<img src="Hovercraft.jpg" width="200" height="200" align="left"/>
   This was a prototype of a hovercraft that could perform environmental monitoring using Waspmote Gas Sensor Board and video surveillance using an onboard webcam and an Intel Galileo board, and transmit this data over X-Bee and Wi-Fi respectively. This robot could be of use in post-disaster surveillance, so it was awarded the Best Project Award at the Intel India Innovation Challenge, 2014. 
 </p>
 
