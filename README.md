@@ -27,10 +27,7 @@ I worked on this mobile manipulator built by Nex Robotics as a part of the e-Yan
 <p>
 <img src="Octocopter_cropped.jpg" width="150" height="150" align="left"/>
 </p>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+This was a drone built as a part of my undergraduate summer internship at TU Dresden, Germany in 2016. In a short span of 3 months, I was able to successfully build an octocopter using the Pixhawk V4 flight controller. The drone had a flight time of about 20 min at the current weight and has a maximum payload capacity of 8kg. The drone was capable of taking off and landing autonomously from a surface and performed waypoint tracking using GPS. All the safety features provided by the Pixhawk V4 controller were enabled and tested. I also designed a suitable landing gear for the drone using Plexi Glass.
 
 ## Surveillance Hovercraft
 <p>
