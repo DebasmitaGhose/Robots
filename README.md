@@ -25,7 +25,7 @@ I worked on this mobile manipulator built by Nex Robotics as a part of the e-Yan
 
 ## Octocopter
 <p>
-<img src="Octocopter.jpg" width="150" height="150" align="left"/>
+<img src="Octocopter_cropped.jpg" width="150" height="150" align="left"/>
 </p>
 <br/><br/>
 <br/><br/>
