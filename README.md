@@ -11,10 +11,7 @@ This is a dynamically balancing toddler-sized humanoid built at the Labortory of
 <img src="SiemensHumanoid.jpg" width="150" height="150" align="left"/>
 This is a 3-wheeled humanoid demo-platform developed at Siemens Corporate Technology, Munich, Germany. As a part of my summer internship at Siemens, in 2018, I developed a follow-me application of this robot, where the robot would use laser-scans of its environment to find the nearest human and follow him around on the pre-defined map of the room using the navigation stack of ROS. Additionally, I used Moveit to build a bimanual clock pick and place application using this robot. 
 </p>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+
 
 ## Firebird V
 <p>
