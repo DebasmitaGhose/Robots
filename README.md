@@ -39,7 +39,7 @@
 <br/><br/>
 
 ## Surveillance Hovercraft
-p>
+<p>
 <img src="Hovercraft.jpg" width="150" height="150" align="left"/>
 </p>
 <br/><br/>
