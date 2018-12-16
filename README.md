@@ -8,7 +8,7 @@ This is a dynamically balancing toddler-sized humanoid built at the Labortory of
 
 ## Siemens Humanoid
 <p>
-<img src="SiemensHumanoid.jpg" width="200" height="250" align="justify"/>
+<img src="SiemensHumanoid.jpg" width="200" height="250" align="left"/>
 This is a 3-wheeled humanoid demo-platform developed at Siemens Corporate Technology, Munich, Germany. As a part of my summer internship at Siemens, in 2018, I developed a follow-me application of this robot, where the robot would use laser-scans of its environment to find the nearest human and follow him around on the pre-defined map of the room using the navigation stack of ROS. Additionally, I used Moveit to build a bimanual clock pick and place application using this robot. 
 </p>
 
@@ -17,10 +17,7 @@ This is a 3-wheeled humanoid demo-platform developed at Siemens Corporate Techno
 <p>
 <img src="Firebird.jpeg" width="150" height="150" align="left"/>
 </p>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
+I worked on this mobile manipulator built by Nex Robotics as a part of the e-Yantra Robotics Competition, 2015 by IIT Bombay, India. The robot was equipped with multiple Long Range Infrared Sensors and my team built a robotic arm using servo motors to pick up given cargo blocks. The task was to traverse in a predefined grid, looking for cargo blocks and checking for the given correct orientation of those blocks. If the blocks were not sensed in the correct orientation, the robotic arm should pick the block up, turn it around and place it in the correct orientation. Additionally, it should traverse the path from its source to destination in the shortest time. 
 
 # Robots I Have Built
 
