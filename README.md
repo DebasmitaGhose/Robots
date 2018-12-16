@@ -1,5 +1,7 @@
 # Robots I Have Worked With
 
+[About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/) | [Projects](https://debasmitaghose.github.io/Projects/) | 
+
 ## uBot - 6
 <p>
 <img src="uBot6.png" width="200" height="250" align="left"/>
