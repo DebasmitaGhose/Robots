@@ -17,7 +17,7 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-
+<br/><br/>
 
 ## Firebird V
 <p>
@@ -26,7 +26,7 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
-
+<br/><br/>
 
 # Robots I Have Built
 
@@ -38,11 +38,13 @@
 <br/><br/>
 <br/><br/>
 <br/><br/>
+<br/><br/>
 
 ## Surveillance Hovercraft
 <p>
 <img src="Hovercraft.jpg" width="150" height="150" align="left"/>
 </p>
+<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
