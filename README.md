@@ -1,6 +1,6 @@
 # Robots
 
-# [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/) | [Projects](https://debasmitaghose.github.io/Projects/)  
+## [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/) | [Projects](https://debasmitaghose.github.io/Projects/)  
 
 ## Robots I Have Worked With
 
