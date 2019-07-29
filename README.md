@@ -39,3 +39,5 @@ This was a arial robot research platform built as a part of my undergraduate sum
   This was a prototype of a hovercraft that could perform environmental monitoring using Waspmote Gas Sensor Board and video surveillance using an onboard webcam and an Intel Galileo board, and transmit this data over X-Bee and Wi-Fi respectively. This robot could be of use in post-disaster surveillance, so it was awarded the Best Project Award at the Intel India Innovation Challenge, 2014. 
 </p>
 
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fdebasmitaghose.github.io%2FRobots%2F)
